@@ -21,6 +21,6 @@ She is currently a working with her PhD advisor Prof. [Chengyan Yue](https://hor
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Consumer Behavior***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Consumer Neuroscience Economics***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Consumer Neuroscience***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ***Sustainability***
