@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Uma Parasuram"
-  avatar           : "profile.png"
+  avatar           : "uma_image.png"
   bio              : "Phd student in Applied Economics (Consumer behavior and consumer neuroscience)"
   location         : "Minneapolis, MN"
   employer         : "University of Minnesota"
@@ -175,7 +175,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: true      
     permalink: /:collection/:path/
   publications:
     output: true
@@ -183,7 +183,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  blog:
     output: true
     permalink: /:collection/:path/
 
