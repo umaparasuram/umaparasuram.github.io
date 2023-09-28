@@ -1,17 +1,22 @@
 # main links links
-
 main:
-  - title: "Publication"
-    url: https://scholar.google.com/citations?user=O6qvzNwAAAAJ&hl=en
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Presentations and Media"
-    url: /media/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
-
-- title: "Blog"
-   url:  /year-archive/
-
-#- title: "Nudgelogics"
-#  url:  https://www.nudgelogics.com
+    
+  - title: "Guide"
+    url: /markdown/
