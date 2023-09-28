@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/uma_resume_2023.pdf
     
- - title: "Nudgelogics"
-    url: "https://www.nudgelogics.com"
+- title: "Nudgelogics"
+  url: "https://www.nudgelogics.com/"
+
