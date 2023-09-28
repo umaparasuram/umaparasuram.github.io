@@ -1,11 +1,9 @@
 # Authors
-
 Name Name:
-  name        : "Uma Parasuram"
-  uri         : "http://umaparasuram.github.io"
-  email       : "paras048@umn.edu"
-  bio         : "Uma is an economic researcher"
+  name        : "Name Name"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
- linkedin    : "/in/uma-parasuram/"
-
+  google_plus : "Name"
